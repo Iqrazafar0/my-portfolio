@@ -85,7 +85,7 @@ export default function Home() {
                 </p>
                 <div style={{ marginTop: '15px', display: 'flex', gap: '10px' }}>
                   <a href={project.liveLink} target="_blank" className="download-btn" style={{ padding: '8px 15px', fontSize: '0.6rem' }}>Live Link</a>
-                  <a href={project.githubLink} target="_blank" className="download-btn" style={{ padding: '8px 15px', fontSize: '0.6rem', background: '#ffffff', color: '#1a3c34' }}>GitHub</a>
+                  <a href={project.githubLink} target="_blank" className="download-btn" style={{ padding: '8px 15px', fontSize: '0.6rem', background: 'transparent', color: '#1a3c34', opacity: '1' }}>GitHub</a>
                 </div>
                 <p className="job-meta" style={{ marginTop: '15px' }}>
                   <span className="text-white">{project.tech}</span>
