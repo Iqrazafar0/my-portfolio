@@ -1,5 +1,4 @@
 "use client"
-import { useState } from 'react';
 
 export default function Home() {
   const mySkills = [
@@ -25,8 +24,6 @@ export default function Home() {
     }
   ];
 
-  const [message, setMessage] = useState("");
-
   return (
     <main>
       <section className="hero-section">
@@ -46,13 +43,13 @@ export default function Home() {
           <div className="line"></div>
           <p className="section-desc">
             I am a Full-Stack Developer specializing in building high-performance web applications and 
-    automated business systems. My expertise lies in bridging the gap between robust backend 
-    logic with <strong>Django & PostgreSQL</strong> and sleek, interactive user interfaces 
-    using <strong>React.js</strong>.
-    <br /><br />
-    With a strong foundation in <strong>Automation Strategy (n8n, HubSpot, Zapier)</strong>, 
-    I focus on creating digital products that don't just look good but actually optimize 
-    workflows and solve real-world business challenges.
+            automated business systems. My expertise lies in bridging the gap between robust backend 
+            logic with <strong>Django & PostgreSQL</strong> and sleek, interactive user interfaces 
+            using <strong>React.js</strong>.
+            <br /><br />
+            With a strong foundation in <strong>Automation Strategy (n8n, HubSpot, Zapier)</strong>, 
+            I focus on creating digital products that don't just look good but actually optimize 
+            workflows and solve real-world business challenges.
           </p>
         </section>
 
@@ -88,7 +85,7 @@ export default function Home() {
                 </p>
                 <div style={{ marginTop: '15px', display: 'flex', gap: '10px' }}>
                   <a href={project.liveLink} target="_blank" className="download-btn" style={{ padding: '8px 15px', fontSize: '0.6rem' }}>Live Link</a>
-                  <a href={project.githubLink} target="_blank" className="download-btn" style={{ padding: '8px 15px', fontSize: '0.6rem', background: 'transparent', color: '#1a3c34' }}>GitHub</a>
+                  <a href={project.githubLink} target="_blank" className="download-btn" style={{ padding: '8px 15px', fontSize: '0.6rem', background: '#ffffff', color: '#1a3c34' }}>GitHub</a>
                 </div>
                 <p className="job-meta" style={{ marginTop: '15px' }}>
                   <span className="text-white">{project.tech}</span>
@@ -110,9 +107,9 @@ export default function Home() {
             ))}
           </div>
         </section>
+      </div>
 
       <footer className="main-footer">
-        {/* Exact same footer groups from your HTML */}
         <div className="footer-content">
           <div className="footer-group">
             <span className="footer-label">LOCATION</span>
