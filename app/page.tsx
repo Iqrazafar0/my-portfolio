@@ -111,14 +111,6 @@ export default function Home() {
           </div>
         </section>
 
-        <div className="download-container">
-          <a href="portfolio.pdf" download className="download-btn" onClick={() => {setMessage("Download Started!"); setTimeout(()=>setMessage(""), 2000)}}>
-            Download PDF Portfolio
-          </a>
-          <p className="download-message" style={{opacity: message ? 1 : 0}}>{message}</p>
-        </div>
-      </div>
-
       <footer className="main-footer">
         {/* Exact same footer groups from your HTML */}
         <div className="footer-content">
