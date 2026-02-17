@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🚀 Full-Stack Web Developer Portfolio</h1>
+  <h1>Full-Stack Web Developer Portfolio</h1>
   <p><b>Focusing on React.js, Django, and Scalable Web Solutions</b></p>
 
   <a href="https://my-portfolio-nine-lac-zasdclw0mq.vercel.app/">
@@ -9,10 +9,10 @@
 
 ---
 
-### 🌟 Project Overview: AutoConsult
+###  Project Overview: AutoConsult
 A comprehensive **Automotive Consulting Portal** that provides professional strategy and management tools. This project demonstrates my ability to handle both frontend user experiences and complex backend logic.
 
-#### ✨ Key Technical Features:
+####  Key Technical Features:
 * **Admin Analytics Dashboard:** A secure area to monitor platform metrics and user data.
 * **Full-Stack Integration:** Seamless data flow between a React frontend and Django REST API.
 * **Responsive Architecture:** Ensuring a perfect UI across all devices (Mobile, Tablet, Desktop).
@@ -20,7 +20,7 @@ A comprehensive **Automotive Consulting Portal** that provides professional stra
 
 ---
 
-### 🛠 Tech Stack & Tools
+###  Tech Stack & Tools
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -48,7 +48,7 @@ A comprehensive **Automotive Consulting Portal** that provides professional stra
 
 ---
 
-### 🎯 Professional Goals
+###  Professional Goals
 I am currently focusing on:
 1. Building high-performance remote-ready web applications.
 2. Developing innovative **Final Year Project (FYP)** ideas in the EdTech/FinTech space.
@@ -57,7 +57,7 @@ I am currently focusing on:
 ---
 
 <div align="center">
-  <h3>📬 Let's Connect!</h3>
+  <h3>Let's Connect!</h3>
   <p>I am open to <b>Remote Opportunities</b> and technical discussions. Feel free to reach out via LinkedIn!</p>
   <a href="https://www.linkedin.com/in/iqra-zafar-551a02346/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
