@@ -2,7 +2,7 @@
   <h1>🚀 Full-Stack Web Developer Portfolio</h1>
   <p><b>Focusing on React.js, Django, and Scalable Web Solutions</b></p>
 
-  <a href="[PASTE_YOUR_VERCEL_LINK_HERE]">
+  <a href="https://my-portfolio-nine-lac-zasdclw0mq.vercel.app/">
     <img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=vercel" alt="Live Demo">
   </a>
 </div>
@@ -59,7 +59,7 @@ I am currently focusing on:
 <div align="center">
   <h3>📬 Let's Connect!</h3>
   <p>I am open to <b>Remote Opportunities</b> and technical discussions. Feel free to reach out via LinkedIn!</p>
-  <a href="[PASTE_YOUR_LINKEDIN_LINK_HERE]">
+  <a href="https://www.linkedin.com/in/iqra-zafar-551a02346/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
   </a>
 </div>
