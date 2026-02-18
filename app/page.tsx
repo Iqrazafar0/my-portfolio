@@ -3,8 +3,9 @@
 export default function Home() {
   const mySkills = [
     { category: "Full-Stack", items: "Django, React, Python, JavaScript, HTML5, CSS3" },
-    { category: "Automation", items: "n8n, HubSpot, Zapier, Postman, API" },
-    { category: "Database", items: "PostgreSQL, Git/GitHub, Deployment" }
+    { category: "CRM & Automation", items: "HubSpot (CRM), n8n, Zapier" },
+    { category: "Backend Tools & APIs", items: "PostgreSQL, Postman, REST APIs" },
+    { category: "DevOps & Tools", items: "Git, GitHub, Vercel Deployment" }
   ];
 
   const myProjects = [
